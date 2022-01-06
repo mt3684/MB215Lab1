@@ -1,1 +1,1 @@
-print ("Hello world from Michael Todino")
+print("Hello world from Michael Todino")
